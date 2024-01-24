@@ -1,1 +1,1 @@
-#project for learning basic of CRUD, api server
+# project for learning basic of CRUD, api server
